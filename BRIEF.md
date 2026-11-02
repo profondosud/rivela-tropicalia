@@ -57,7 +57,6 @@ pubblicazione definitiva, verificando i diritti. Questa nota non autorizza la de
 - GitHub Pages: stato `built`; pagina, CSS e tutte le foto della demo rispondono HTTP 200.
 - Demo aperta e verificata nel browser il 2 novembre 2026.
 
-
 ## Da verificare
 
 - Foto di esterno e interno del negozio non acquisite. Usate quattro foto reali di prodotti pubblicati nel suo catalogo, senza attribuirle al locale fisico.

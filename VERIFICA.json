@@ -1,0 +1,104 @@
+{
+  "web": {
+    "slug": "tropicalia",
+    "repository": "https://github.com/profondosud/rivela-tropicalia",
+    "pages_url": "https://profondosud.github.io/rivela-tropicalia/",
+    "pages_status": "built",
+    "home": {
+      "url": "https://profondosud.github.io/rivela-tropicalia/",
+      "status": 200,
+      "bytes": 8242
+    },
+    "assets": [
+      {
+        "url": "https://profondosud.github.io/rivela-tropicalia/styles.css",
+        "status": 200,
+        "bytes": 15713
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-tropicalia/images/tropicalia-galletas.webp",
+        "status": 200,
+        "bytes": 35378
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-tropicalia/images/tropicalia-cafe.webp",
+        "status": 200,
+        "bytes": 41194
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-tropicalia/images/tropicalia-bebida.webp",
+        "status": 200,
+        "bytes": 14860
+      },
+      {
+        "url": "https://profondosud.github.io/rivela-tropicalia/images/tropicalia-amaretto.webp",
+        "status": 200,
+        "bytes": 38626
+      }
+    ],
+    "cliente": "Tropicalia"
+  },
+  "browser": {
+    "slug": "tropicalia",
+    "sizes": [
+      {
+        "brokenImages": [],
+        "client": 305,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 305,
+        "viewport": 320
+      },
+      {
+        "brokenImages": [],
+        "client": 375,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 375,
+        "viewport": 390
+      },
+      {
+        "brokenImages": [],
+        "client": 753,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 753,
+        "viewport": 768
+      },
+      {
+        "brokenImages": [],
+        "client": 1265,
+        "fontStatus": "loaded",
+        "overflow": [],
+        "scroll": 1265,
+        "viewport": 1280
+      }
+    ]
+  },
+  "mobile": {
+    "slug": "tropicalia",
+    "focus": {
+      "focusVisible": true,
+      "outline": "solid",
+      "tag": "A"
+    },
+    "contact": {
+      "hash": "#visita",
+      "mobileAction": [
+        {
+          "height": 52,
+          "href": "tel:+34963346917",
+          "visible": true
+        }
+      ],
+      "overflow": false,
+      "phone": [
+        "tel:+34963346917",
+        "tel:+34963346917",
+        "tel:+34963346917",
+        "tel:+34963346917",
+        "tel:+34963346917"
+      ]
+    }
+  }
+}

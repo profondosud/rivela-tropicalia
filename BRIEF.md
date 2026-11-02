@@ -10,7 +10,9 @@ Nessun contatto inviato all'attività. Prezzi esclusi. Dichiarazione di demo non
 
 ## Identità
 
-Proposta Rivela: verde vegetale #246b45, crema e giallo caldo per una dispensa accessibile e luminosa. Il logo originale dal sito è archiviato con la provenienza; il layout usa un marchio testuale perché l'SVG contiene immagini raster incorporate e spazi bianchi estesi.
+Proposta Rivela: verde vegetale #246b45, crema e giallo caldo per una dispensa accessibile e luminosa. Il logo originale
+dal sito è archiviato con la provenienza; il layout usa un marchio testuale perché l'SVG contiene immagini raster
+incorporate e spazi bianchi estesi.
 
 Palette proposta: {"paper": "#fff8e6", "ink": "#163c30", "accent": "#246b45", "soft": "#f2e5b7", "night": "#164a35", "onAccent": "#fffbee"}.
 Font Google Fonts locali: Fraunces (titoli), DM Sans (testi). Licenze SIL OFL in `fonts/`.
@@ -35,23 +37,26 @@ Testi originali riformulati sui soli servizi supportati dalle fonti; non recensi
 
 ## Fotografie e diritti
 
-- `images/tropicalia-cafe.webp`: [originale](https://tropicaliaonline.com/wp-content/uploads/2026/05/buendiaclasico2-600x600.jpg), fonte [pagina](https://tropicaliaonline.com/). Foto di prodotto dal catalogo ufficiale. Autore/licenza di riutilizzo non verificati: consenso demo successivamente confermato da Marco.
-- `images/tropicalia-galletas.webp`: [originale](https://tropicaliaonline.com/wp-content/uploads/2026/05/terepindurazno-600x600.jpeg), fonte [pagina](https://tropicaliaonline.com/). Foto di prodotto dal catalogo ufficiale. Autore/licenza di riutilizzo non verificati: consenso demo successivamente confermato da Marco.
-- `images/tropicalia-bebida.webp`: [originale](https://tropicaliaonline.com/wp-content/uploads/2026/05/kolaroman-600x600.png), fonte [pagina](https://tropicaliaonline.com/). Foto di prodotto dal catalogo ufficiale. Autore/licenza di riutilizzo non verificati: consenso demo successivamente confermato da Marco.
-- `images/tropicalia-amaretto.webp`: [originale](https://tropicaliaonline.com/wp-content/uploads/2026/05/amaretto.jpg), fonte [pagina](https://tropicaliaonline.com/). Foto di prodotto dal catalogo ufficiale. Autore/licenza di riutilizzo non verificati: consenso demo successivamente confermato da Marco.
-- `images/tropicalia-logo.svg`: [originale](https://tropicaliaonline.com/wp-content/uploads/2024/05/logo-tropicalia-online.svg), fonte [pagina](https://tropicaliaonline.com/). Marchio dal sito ufficiale; uso pubblico e file definitivo da approvare con il titolare.
+- `images/tropicalia-cafe.webp`: [risorsa originale](https://tropicaliaonline.com/wp-content/uploads/2026/05/buendiaclasico2-600x600.jpg), [pagina di provenienza](https://tropicaliaonline.com/). Autore e licenza non verificati autonomamente; consenso dei titolari per le sei demo confermato da Marco in chat il 02/11/2026. Uso definitivo da concordare con i clienti.
+- `images/tropicalia-galletas.webp`: [risorsa originale](https://tropicaliaonline.com/wp-content/uploads/2026/05/terepindurazno-600x600.jpeg), [pagina di provenienza](https://tropicaliaonline.com/). Autore e licenza non verificati autonomamente; consenso dei titolari per le sei demo confermato da Marco in chat il 02/11/2026. Uso definitivo da concordare con i clienti.
+- `images/tropicalia-bebida.webp`: [risorsa originale](https://tropicaliaonline.com/wp-content/uploads/2026/05/kolaroman-600x600.png), [pagina di provenienza](https://tropicaliaonline.com/). Autore e licenza non verificati autonomamente; consenso dei titolari per le sei demo confermato da Marco in chat il 02/11/2026. Uso definitivo da concordare con i clienti.
+- `images/tropicalia-amaretto.webp`: [risorsa originale](https://tropicaliaonline.com/wp-content/uploads/2026/05/amaretto.jpg), [pagina di provenienza](https://tropicaliaonline.com/). Autore e licenza non verificati autonomamente; consenso dei titolari per le sei demo confermato da Marco in chat il 02/11/2026. Uso definitivo da concordare con i clienti.
+- `images/tropicalia-logo.svg`: [risorsa originale](https://tropicaliaonline.com/wp-content/uploads/2024/05/logo-tropicalia-online.svg), [pagina di provenienza](https://tropicaliaonline.com/). Autore e licenza non verificati autonomamente; consenso dei titolari per le sei demo confermato da Marco in chat il 02/11/2026. Uso definitivo da concordare con i clienti.
 
 La disponibilità pubblica non costituisce una licenza di riutilizzo. Non è stata accertata
-una licenza autonoma. Marco ha confermato in chat il consenso dei titolari per le sei demo pubbliche il 2 novembre 2026. Licenze e liberatorie non verificate autonomamente da Rivela; il consenso non copre una pubblicazione definitiva.
+una licenza autonoma. Marco ha confermato in chat il consenso dei titolari per le sei demo pubbliche il 2 novembre 2026.
+Licenze e liberatorie non verificate autonomamente da Rivela; il consenso non copre una pubblicazione definitiva.
 Logo e fotografie presi dal web vanno sostituiti con file forniti dal cliente prima di qualunque
 pubblicazione definitiva, verificando i diritti. Questa nota non autorizza la demo pubblica.
 
 ## Repository e demo
 
-Nome previsto: `profondosud/rivela-tropicalia`.
-Pubblicazione autorizzata da Marco; creazione repository e attivazione Pages in corso.
-URL Pages solo previsto, non attivo né verificato: https://profondosud.github.io/rivela-tropicalia/.
-Descrizione prevista: Demo Rivela · Tropicalia (Valencia) · propuesta independiente, no oficial
+- Repository pubblico creato per questo incarico: [https://github.com/profondosud/rivela-tropicalia](https://github.com/profondosud/rivela-tropicalia).
+- Demo Pages attiva: [https://profondosud.github.io/rivela-tropicalia/](https://profondosud.github.io/rivela-tropicalia/).
+- Sorgente: branch `main`, cartella root, `.nojekyll`.
+- GitHub Pages: stato `built`; pagina, CSS e tutte le foto della demo rispondono HTTP 200.
+- Demo aperta e verificata nel browser il 2 novembre 2026.
+
 
 ## Da verificare
 
@@ -67,6 +72,12 @@ Controlli statici superati: immagini e font locali presenti, ancore valide, H1 u
 assenza di script/moduli/embed, regole focus, reduced motion e safe-area presenti.
 Contrasti calcolati sulle palette: {"testo": 11.5, "pulsanti": 6.21, "sezioni scure": 9.6, "titoli accento": 6.07}.
 Revisione visiva delle fotografie eseguita; nessun test visivo della pagina locale dichiarato.
-Il browser integrato non raggiunge il server locale: la verifica visiva responsive resta da fare sulla demo pubblicata.
+Il server locale non era raggiungibile dal browser integrato; i controlli seguenti sono stati eseguiti sulle demo Pages
+pubblicate.
 
-Verifica della demo pubblicata da completare dopo attivazione Pages.
+Verifica pubblica completata: ispezione delle hero su desktop e smartphone;
+misure del layout a 320, 390, 768 e 1280 px senza overflow orizzontale;
+navigazione verso `#visita`, focus da tastiera visibile e CTA mobile di 52 px verificati.
+Foto e CSS serviti senza errori; font locali caricati. Non sono state effettuate chiamate, prenotazioni o messaggi.
+Le fonti esterne possono cambiare; non è stato eseguito un audit completo con lettore di schermo
+né un test su dispositivi fisici iOS/Android.
